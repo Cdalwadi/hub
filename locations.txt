@@ -1,1 +1,2 @@
 "Earth's Moon" 
+Making edits in Github directly. Will run "git pull --all" to see locations.txt file updated in the local repo (C:\Repos\hub\)
