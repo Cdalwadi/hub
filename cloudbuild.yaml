@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [ 'build', '-t', 'gcr.io/course793a-1852170/alpine-time-image', '.' ]
+images:
+- 'gcr.io/course793a-1852170/alpinetime-image'
